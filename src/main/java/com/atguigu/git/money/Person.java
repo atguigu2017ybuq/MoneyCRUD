@@ -6,6 +6,7 @@ public class Person {
 		System.out.println("I am a person ...");
 		System.out.println("I am a person edit by ybuq ...");
 		System.out.println("I am a person edit by lhuc ...");
+		System.out.println("$$$$$$$$$$$$");
 	}
 
 }
