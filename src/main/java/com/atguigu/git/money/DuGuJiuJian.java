@@ -9,6 +9,7 @@ public class DuGuJiuJian {
 		System.out.println("Very very fast!");
 		System.out.println("Very very very fast!");
 		System.out.println("Very very very very fast!");
+		System.out.println("so fast!");
 	}
 
 }
